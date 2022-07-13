@@ -30,3 +30,5 @@ Primero, los haremos por separado, luego en conjunto.
 ## Finalmente, agregar lógica
 
 Aquí le damos el contexto que queramos, en nuestro caso, astronomía :)
+## Código conjunto
+se encuentra [aquí](https://github.com/cpina00/Arduino-astronomia/blob/main/arduino.ino)
